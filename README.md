@@ -43,7 +43,7 @@ http {
     include /etc/nginx/sites-enabled/*;
 }
 ```
-Obs> Edite o arquivo de configuração principal do NGINX (/etc/nginx/nginx.conf) para otimizar o desempenho.
+
 --
 **3. Configuração de Proxy Reverso**
 ```
