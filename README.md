@@ -44,7 +44,6 @@ http {
 }
 ```
 
---
 **3. Configuração de Proxy Reverso**
 ```
 server {
