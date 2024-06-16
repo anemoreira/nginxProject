@@ -82,6 +82,7 @@ server {
 }
 ```
 Obs> Edite o arquivo de configuração do site NGINX em /etc/nginx/sites-available/seu_dominio
+
 **4. Segurança Adicional**
 ```
 add_header X-Frame-Options SAMEORIGIN;
