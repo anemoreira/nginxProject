@@ -1,7 +1,7 @@
 ## Meu objetivo
 Configurar e otimizar um servidor NGINX para atuar como servidor web, proxy reverso e gateway de API. O projeto deve otimizar o desempenho, implementar HTTPS, configurar regras de proxy reverso e gerenciar servidores web seguros.
 
-![image](https://github.com/anemoreira/firstProjectSimple/assets/93550467/be3c8770-5457-470c-85d8-fc330ddb4235)
+[nginx location tester](https://nginx.viraptor.info/)
 
 **1. Instalação do NGINX - Debian(Linux)**
 
